@@ -1,8 +1,32 @@
 # Serveless Static Web App on AWS
 
-Aplicação web sem servidor através dos serviços da AWS.
+Aplicação web sem servidor gerenciado pelos serviços da AWS.
 
 - [Página do Tutorial](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
+
+## Andamento  ![](https://geps.dev/progress/20?dangerColor=800000)
+    
+
+- [Módulo 1: Hospedar um site estático](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-1/)
+    
+- [x] Feito?
+
+- [Módulo 2: Gerenciar usuários](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-2/)
+
+- [ ] Feito?
+
+- [Módulo 3: Criar um backend sem servidor](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-3/)
+
+- [ ] Feito?
+
+- [Módulo 4: Implantar uma API RESTful](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-4/)
+
+- [ ] Feito?
+
+- [Módulo 5: Limpeza de recurso](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-5/)
+
+- [ ] Feito?
+
 
 ## Problemas
 
@@ -16,3 +40,10 @@ Utilize este comando:
 
 Para saber mais, acompanhe a [issue](https://github.com/aws-samples/aws-serverless-workshops/issues/292).
 
+## Melhorias
+
+- [Configurar um domínio personalizado](https://docs.aws.amazon.com/amplify/latest/userguide/custom-domains.html)
+
+## Links e Referências
+
+- [Markdown Progress](https://github.com/gepser/markdown-progress)
