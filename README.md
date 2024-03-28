@@ -2,28 +2,25 @@
 
 Aplicação web sem servidor gerenciado pelos serviços da AWS.
 
-- [Página do Tutorial](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
-
 ## Andamento  ![](https://geps.dev/progress/40?dangerColor=800000)
-    
 
-- [Módulo 1: Hospedar um site estático](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-1/)
+[Módulo 1: Hospedar um site estático](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-1/)
     
 - [x] Feito?
 
-- [Módulo 2: Gerenciar usuários](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-2/)
+[Módulo 2: Gerenciar usuários](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-2/)
 
 - [x] Feito?
 
-- [Módulo 3: Criar um backend sem servidor](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-3/)
+[Módulo 3: Criar um backend sem servidor](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-3/)
 
 - [ ] Feito?
 
-- [Módulo 4: Implantar uma API RESTful](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-4/)
+[Módulo 4: Implantar uma API RESTful](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-4/)
 
 - [ ] Feito?
 
-- [Módulo 5: Limpeza de recurso](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-5/)
+[Módulo 5: Limpeza de recurso](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-5/)
 
 - [ ] Feito?
 
@@ -42,8 +39,9 @@ Para saber mais, acompanhe a [issue](https://github.com/aws-samples/aws-serverle
 
 ## Melhorias
 
-- [Configurar um domínio personalizado](https://docs.aws.amazon.com/amplify/latest/userguide/custom-domains.html)
+- [Configurar um domínio personalizado no AWS Amplify](https://docs.aws.amazon.com/amplify/latest/userguide/custom-domains.html)
 
 ## Links e Referências
 
 - [Markdown Progress](https://github.com/gepser/markdown-progress)
+- [Página do Tutorial](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
