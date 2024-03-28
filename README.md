@@ -4,7 +4,7 @@ Aplicação web sem servidor gerenciado pelos serviços da AWS.
 
 - [Página do Tutorial](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
 
-## Andamento  ![](https://geps.dev/progress/20?dangerColor=800000)
+## Andamento  ![](https://geps.dev/progress/40?dangerColor=800000)
     
 
 - [Módulo 1: Hospedar um site estático](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-1/)
@@ -13,7 +13,7 @@ Aplicação web sem servidor gerenciado pelos serviços da AWS.
 
 - [Módulo 2: Gerenciar usuários](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-2/)
 
-- [ ] Feito?
+- [x] Feito?
 
 - [Módulo 3: Criar um backend sem servidor](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-3/)
 
