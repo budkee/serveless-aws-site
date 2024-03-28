@@ -18,7 +18,7 @@ Aplicação web sem servidor gerenciado pelos serviços da AWS.
 
 [Módulo 4: Implantar uma API RESTful](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-4/)
 
-- [ ] Feito?
+- [x] Feito?
 
 [Módulo 5: Limpeza de recurso](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-5/)
 
@@ -26,6 +26,8 @@ Aplicação web sem servidor gerenciado pelos serviços da AWS.
 
 
 ## Problemas
+
+### Módulo 1: Hospedando o site estático no AWS Amplify
 
 Aparentemente, o bucket público que preenche o repositório não existe mais e o tutorial não foi atualizado. Para prosseguir com o tutorial, ao invés de copiar com o seguinte comando:
 
@@ -36,6 +38,11 @@ Utilize este comando:
     aws s3 cp s3://ttt-wildrydes/wildrydes-site ./ --recursive
 
 Para saber mais, acompanhe a [issue](https://github.com/aws-samples/aws-serverless-workshops/issues/292).
+
+### Módulo 4: Implementando a API 
+
+No passo 7: "Selecione POST na nova lista suspensa que aparece em OPÇÕES e, em seguida, selecione o ícone de marca de seleção.", não aparece esse ícone.
+
 
 ## Melhorias
 
