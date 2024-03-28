@@ -2,11 +2,16 @@
 
 Aplicação web sem servidor gerenciado pelos serviços da AWS.
 
-## Andamento  ![](https://geps.dev/progress/80?successColor=006600)
+## Sobre a aplicação
+
+É um sistema de aluguel de unicórnios onde o usuário, após se registrar, passa as coordenadas e realiza a solicitação do seu unicórnio. 
+
+## Andamento  ![](https://geps.dev/progress/100?successColor=006600)
 
 [Módulo 1: Hospedar um site estático](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-1/)
     
 - [x] Feito?
+- [Site](https://main.d3jsf80xkb0tkt.amplifyapp.com/)
 
 [Módulo 2: Gerenciar usuários](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-2/)
 
@@ -22,7 +27,7 @@ Aplicação web sem servidor gerenciado pelos serviços da AWS.
 
 [Módulo 5: Limpeza de recurso](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-5/)
 
-- [ ] Feito?
+- [x] Feito?
 
 
 ## Problemas
@@ -41,12 +46,15 @@ Para saber mais, acompanhe a [issue](https://github.com/aws-samples/aws-serverle
 
 ### Módulo 4: Implementando a API 
 
-No passo 7: "Selecione POST na nova lista suspensa que aparece em OPÇÕES e, em seguida, selecione o ícone de marca de seleção.", não aparece esse ícone.
+Tutorial desatualizado em algumas etapas passo 7: "Selecione POST na nova lista suspensa que aparece em OPÇÕES e, em seguida, selecione o ícone de marca de seleção.", não aparece esse ícone. 
+
+Ao validar a implementação, não é possível fazer o request do unicórnio, pois, pelo o que eu entendi, o token não está sendo passado corretamente.
 
 
 ## Melhorias
 
 - [Configurar um domínio personalizado no AWS Amplify](https://docs.aws.amazon.com/amplify/latest/userguide/custom-domains.html)
+- Criar uma página de login
 
 ## Links e Referências
 
